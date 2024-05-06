@@ -1,6 +1,6 @@
 # Remind-me-later
 
-Remind-me-later is a web application built with Django that allows users to set reminders for themselves with customizable messages. Users can specify the date, time, message content, and how they want to be reminded (via SMS or Email).
+Remind-me-later is a web application built with Node.js that allows users to set reminders for themselves with customizable messages. Users can specify the date, time, message content, and how they want to be reminded (via SMS or Email).
 
 ## Installation
 
